@@ -13,9 +13,7 @@ Ce projet démontre la compréhension de la segmentation réseau, du firewall et
 
 ## 🧱 Architecture du réseau
 
-LAN (192.168.1.0/24) ----- pfSense ----- DMZ (192.168.2.0/24)
-| |
-Kali Metasploitable2
+Kali | LAN (192.168.1.0/24) ----- pfSense ----- DMZ (192.168.2.0/24) | Metasploitable2
 
 
 
@@ -51,7 +49,7 @@ Images disponibles dans : `./images/`
 
 ---
 
-## 🛡️ 3. Ajout d’un IDS (optionnel)
+## 🛡️ 3. Ajout d’un IDS
 Installation de **Snort** sur pfSense.
 
 Déclenchement d’alertes lors de scans Nmap depuis Kali.
