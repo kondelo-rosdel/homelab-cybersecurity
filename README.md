@@ -13,7 +13,7 @@ Ce projet démontre la compréhension de la segmentation réseau, du firewall et
 
 ## 🧱 Architecture du réseau
 
-Kali | LAN (192.168.1.0/24) ----- pfSense ----- DMZ (192.168.2.0/24) | Metasploitable2
+**Kali** | LAN (192.168.1.0/24) ----- **pfSense** ----- DMZ (192.168.2.0/24) | **Metasploitable2**
 
 
 
