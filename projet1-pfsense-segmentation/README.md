@@ -24,8 +24,8 @@ Images disponibles dans : `./images/`
 ## ⚙️ Configuration réalisée
 
 ### ✔️ 1. Création de deux réseaux VirtualBox
-- **LAN (intnet-lan)** → Kali Linux
-- **DMZ (intnet-dmz)** → Metasploitable2
+- **LAN (LANHOME)** → Kali Linux
+- **DMZ (DMZHOME)** → Metasploitable2
 - pfSense possède deux cartes :
   - LAN : 192.168.1.1
   - DMZ : 192.168.2.1
