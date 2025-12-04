@@ -1,4 +1,4 @@
-# Projet 1 – Mise en place d'un mini réseau sécurisé avec pfSense
+# Mise en place d'un mini réseau sécurisé avec pfSense
 
 ## 🎯 Objectif
 Créer une architecture réseau composée de :
